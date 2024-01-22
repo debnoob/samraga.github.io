@@ -1,0 +1,9 @@
+body {
+    background-image: url('images/a');  /* Replace 'a.png' with the actual filename of your background image */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;  /* Optional: Fixes the background when scrolling */
+    margin: 0;  /* Remove default body margin */
+    padding: 0; /* Remove default body padding */
+}
